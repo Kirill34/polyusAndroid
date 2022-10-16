@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#673AB7</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorFab">#ffffff</color>
+    <color name="colorSearchBackground">#ffffff</color>
+    <color name="colorNavBackground">#ffffffff</color>
+    <color name="colorNavUserName">#000000</color>
+    <color name="colorSplashBackground">#ffffff</color>
+    <color name="colorCardBackground">#F3F3F3</color>
+    <color name="colorDivider">#f4f4f4</color>
+</resources>
